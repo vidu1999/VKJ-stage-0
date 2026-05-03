@@ -4,3 +4,5 @@
 "- Files" 
 "- Folders" 
 "**Bugs fear me.**" 
+"## My Developer Rule" 
+"Small progress is better than zero progress." 
