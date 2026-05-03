@@ -1,0 +1,6 @@
+"# VKJ Stage 0" 
+"I am learning developer basics." 
+"- Terminal" 
+"- Files" 
+"- Folders" 
+"**Bugs fear me.**" 
