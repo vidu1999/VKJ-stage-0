@@ -11,4 +11,4 @@
 Name: Marcus  
 Kingdom: VKJ  
 Current level: Stage 0 Apprentice  
-Mission: Become a pro developer without dying from boredom.
+Mission: Become a pro developer without dying from boredom.Small progress is better than zero progress. 
